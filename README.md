@@ -11,3 +11,6 @@ In order to make the programmer compact, SMD components were used in its design.
 
 ### Solder Stencil DXF
 A DXF of the PCB is included to create 3D printable solder stencils. The holes in the PCB design are included to allow for proper board alignment like fiducials.
+
+### Improvements
+There's always room for improvement. Being able to work with different microcontrollers like the 34/44/84 series, or different packages using a switch might be nice to have.
