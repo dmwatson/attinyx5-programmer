@@ -1,6 +1,6 @@
 # ATTinyX5 Programmer
 
-![Enlarged PCB view](https://github.com/dmwatson/attinyx5-programmer/blob/master/ATTinyX5_PCB.png)
+![Enlarged PCB view](https://github.com/dmwatson/attinyx5-programmer/blob/master/V1/ATTinyX5_PCB.png)
 
 A programmer for the ATTiny 25/45/85/13 series of microcontrollers in DIP-8 package. This was an exercise to try and make the least expensive, standalone, and relatively small programmer for that series of microcontrollers. The programmer uses an Arduino Nano v3 board as the ISP interface and has a test LED for the ATTiny located on pin PB3. The PCB size currently is 48.26mm&#xb2;.
 
