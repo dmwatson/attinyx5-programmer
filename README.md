@@ -16,7 +16,7 @@ The ICSP version of the board is only 20.45mm x 17.02mm.
 
 ## License
 
-All board designs, Gerber files, schematics, etc., are licensed under the [Open Source Hardware (OSHW) 1.0](https://www.oshwa.org/definition/) license.
+All board designs, Gerber files, schematics, etc., are licensed under the [MIT License](https://github.com/dmwatson/attinyx5-programmer/blob/master/LICENSE) license.
 
 ## About the Hardware
 
